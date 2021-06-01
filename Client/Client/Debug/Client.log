@@ -1,6 +1,0 @@
-﻿  Client.cpp
-E:\DH-AES(windows)\Client\Client\base64_decode.h(34,69): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
-E:\DH-AES(windows)\Client\Client\base64_decode.h(48,65): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
-E:\DH-AES(windows)\Client\Client\Client.cpp(170,19): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'unsigned int', possible loss of data
-E:\DH-AES(windows)\Client\Client\Client.cpp(171,25): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'long', possible loss of data
-  Client.vcxproj -> E:\DH-AES(windows)\Client\Debug\Client.exe

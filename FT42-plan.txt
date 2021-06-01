@@ -1,0 +1,24 @@
+18/03/2020
+﻿I did
+* What Encryption Standards are Used in Industry? Why?
+* Read about c++ libraries.
+* Understand AES(Advanced Encryption Technique) 
+* Search which libraries support AES.
+   * Crypto++,botan etc.
+* Use Crypto++ library for AES.
+* Read about Key Exchange algorithms.
+   * RSA(3072 bits)
+   * Diffi-Helman(3072 bits0
+   * Curve 25519 (256 bit)        |Fix length algorithm
+   * Four(255 bit)                |Fix length algorithm
+* Understand the Diffie-Hellman Algorithm.
+* Implement in a single file.(calculations in a single program).
+* Read and Prepare presentation for SSL protocols, Diffie-Hemana and RSA.
+* Understand Socket programming 
+
+
+Next plan
+* Read on socket programming and learn to use existing libraries of socket programming.
+* Implement diffie-hellman using socket programming with libraries and without libraries.
+* Read A Method for Obtaining Digital Signatures and Public-Key Cryptosystems by Rivest–Shamir–Adleman for more details.
+* Read Network based Security model using Symmetric Key Cryptography (AES 256– Rijndael Algorithm) with Public Key Exchange Protocol (Diffie-Hellman Key ExchangeProtocol) paper on how Secure channel works.

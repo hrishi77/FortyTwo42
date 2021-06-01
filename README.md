@@ -1,2 +1,0 @@
-# FortyTwo42
-Assignment 

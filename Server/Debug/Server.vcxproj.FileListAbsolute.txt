@@ -1,2 +1,0 @@
-E:\DH-AES(windows)\Server\Debug\Server.exe
-E:\DH-AES(windows)\Server\Debug\Server.pdb
