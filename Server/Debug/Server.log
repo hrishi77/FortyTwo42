@@ -1,0 +1,4 @@
+﻿  Server.cpp
+E:\DH-AES(windows)\Server\Server.cpp(218,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\DH-AES(windows)\Server\Server.cpp(220,25): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'long', possible loss of data
+  Server.vcxproj -> E:\DH-AES(windows)\Server\Debug\Server.exe
